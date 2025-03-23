@@ -15,13 +15,13 @@ pip install requests beautifulsoup4
 
 Spuštění programu
 
-Stáhněte nebo zkopírujte soubor election_scraper.py do svého počítače.
+Stáhněte nebo zkopírujte soubor main.py do svého počítače.
 
 Otevřete terminál (příkazový řádek) ve složce, kde je uložen soubor.
 
 Spusťte program pomocí následujícího příkazu:
 
-python election_scraper.py <URL_ADRESA> <NAZEV_SOUBORU.csv>
+python main.py <URL_ADRESA> <NAZEV_SOUBORU.csv>
 
 Důležité: Program vyžaduje dva argumenty:
 
@@ -31,7 +31,7 @@ Druhý argument – Název souboru, kam se uloží výsledky (musí mít přípo
 
 Příklad použití:
 
-python election-scraper.py "https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=3&xobec=554782&xvyber=6205" "vysledky.csv"
+python main.py "https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=3&xobec=554782&xvyber=6205" "vysledky.csv"
 
 Tento příkaz stáhne data z webu volby.cz a uloží je do souboru vysledky.csv.
 
