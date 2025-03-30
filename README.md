@@ -8,7 +8,7 @@ Vytvořte si virtuální prostředí. To vytvoříte v terminálu tímto příka
 
 python -m venv venv
 
-source venv/bin/activate
+source venv/bin/activate (tímto příkazem aktivujete virtuální prostředí)
 
 Že máte virtuální prostředí aktivní poznáte tak že se vám v terminalu zobrazí toto:
 
