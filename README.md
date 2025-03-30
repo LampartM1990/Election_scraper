@@ -19,14 +19,19 @@ Ted už máte virtuální prostředí aktivní a můžete jít na další krok.
 Před spuštěním programu se ujistěte, že máte nainstalované následující knihovny:
 
 requests - Pro stahování dat z webu.
+
 beautifulsoup4 - Pro parsování HTML obsahu.
+
 Tuto Knihovnu nemusíš instalovat je součástí pythonu stačí si jí naimportovat příkazem:
+
 import csv - Pro zápis dat do CSV souboru.
 
 Pokud je nemáte nainstalované, spusťte tento příkaz:
+
 pip install -r requirements.txt
 
 Pokud jste na Linuxu zkuste tento příkaz:
+
 pip3 install -r requirements.txt
 
 Spuštění programu
