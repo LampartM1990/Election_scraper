@@ -5,10 +5,15 @@ Tento program slouží k automatickému stažení a uložení volebních výsled
 Požadavky:
 
 Vytvořte si virtuální prostředí. To vytvoříte v terminálu tímto příkazem:
+
 python -m venv venv
+
 source venv/bin/activate
+
 Že máte virtuální prostředí aktivní poznáte tak že se vám v terminalu zobrazí toto:
+
 (venv) vase@jmeno: 
+
 Ted už máte virtuální prostředí aktivní a můžete jít na další krok.
 
 Před spuštěním programu se ujistěte, že máte nainstalované následující knihovny:
