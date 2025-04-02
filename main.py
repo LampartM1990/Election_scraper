@@ -76,15 +76,15 @@ def main():
     check_args()
     url = sys.argv[1]
     csv_file = sys.argv[2]
-    print(f"STAHUJI DATA Z VYBRANEHO URL: {url}")
+    print(f"Stahuji data z URL: {url}")
     base_url = get_base_url(url)
     soup = get_web(url)
     locations = get_locations(soup, base_url)
     is_foreign = "ps36?" in url
     results = get_results(locations, is_foreign)
-    print(f"UKLADAM DO SOUBORU: {csv_file}")
+    print(f"Ukládám data do: {csv_file}")
     save_data(results, csv_file)
-    print("PROGRAM UKONčEN")
+    print("Program ukončen")
 
 if __name__ == "__main__":
     main()
