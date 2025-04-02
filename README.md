@@ -2,7 +2,7 @@ Election Scraper - Volební výsledky z volby.cz
 
 Tento program slouží k automatickému stažení a uložení volebních výsledků z webových stránek volby.cz do souboru ve formátu CSV.
 
-Požadavky:
+Jak postupovat:
 
 Vytvořte si virtuální prostředí. To vytvoříte v terminálu tímto příkazem:
 
