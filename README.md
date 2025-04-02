@@ -78,6 +78,7 @@ Ukladam data do: vysledky_ostrava.csv
 Program ukončem
 
 Částečný výstup:
+
 Kod obce,Nazev obce,Voliči,Vydané obalky,Platné hlasy,Občanská demokratická strana,.......
 569119,Čavisov,419,318,316,29,0,0,22,0,16,34,4,2,2,0,0,36,0,0,5,103,0,0,27,0,1,2,0,29
 506711,Dolní Lhota,1 202,904,899,95,2,0,69,0,31,41,9,3,2,1,1,90,0,0,25,356,0,2,65,0,6,7,0,91
