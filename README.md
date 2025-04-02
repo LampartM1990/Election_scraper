@@ -71,10 +71,10 @@ Strana 1, Strana 2, ... – Počet hlasů pro jednotlivé strany
 
 Po spuštění se vám v terminálu zobrazí průběh stahování :
 
-STAHUJI DATA Z VYBRANEHO URL: https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=14&xnumnuts=8106
+Stahuji data z vybraneho URL: https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=14&xnumnuts=8106
 
-UKLADAM DO SOUBORU: vysledky_ostrava.csv
+Ukladam data do: vysledky_ostrava.csv
 
-PROGRAM UKONČEN
+Program ukončem
 
 
